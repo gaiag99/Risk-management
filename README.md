@@ -4,6 +4,7 @@ viaggi di studio all’estero. AIFS si trova esposta a due principali fonti di i
 1. Tasso di cambio tra USD e EUR: essendo l’azienda americana, ma con costi in euro, è
 vulnerabile a fluttuazioni del cambio.
 2. Volume di studenti: il numero di iscrizioni effettive è incerto.
+
 Per mitigare tali rischi, l’azienda utilizza un portafoglio di strumenti finanziari composto da:
 - Contratti forward: contratti lineari e simmetrici che permettono di acquistare valuta in
 un tempo futuro T ad un tasso fissato in t0
