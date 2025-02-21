@@ -12,6 +12,6 @@ un tempo futuro T ad un tasso fissato in t0
 tasso prefissato. Le call offrono flessibilità, ma hanno un costo iniziale (premio).
 
 Le decisioni vanno prese al tempo t0 = 0 e si suppongono noti il prezzo forward, il prezzo strike e
-il costo per la call e si assume, inoltre, che la maturit`a dei contratti sia T. L’obiettivo del modello
+il costo per la call e si assume, inoltre, che la maturità dei contratti sia T. L’obiettivo del modello
 è determinare il mix ottimale di forward e opzioni per ridurre al minimo il rischio associato alle
 variazioni del volume studenti e del tasso di cambio.
