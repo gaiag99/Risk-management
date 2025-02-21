@@ -9,7 +9,8 @@ Per mitigare tali rischi, l’azienda utilizza un portafoglio di strumenti finan
 - Contratti forward: contratti lineari e simmetrici che permettono di acquistare valuta in
 un tempo futuro T ad un tasso fissato in t0
 - Opzioni call: strumenti che danno il diritto, ma non l’obbligo, di acquistare valuta a un
-tasso prefissato. Le call offrono flessibilit`a, ma hanno un costo iniziale (premio).
+tasso prefissato. Le call offrono flessibilità, ma hanno un costo iniziale (premio).
+
 Le decisioni vanno prese al tempo t0 = 0 e si suppongono noti il prezzo forward, il prezzo strike e
 il costo per la call e si assume, inoltre, che la maturit`a dei contratti sia T. L’obiettivo del modello
 è determinare il mix ottimale di forward e opzioni per ridurre al minimo il rischio associato alle
